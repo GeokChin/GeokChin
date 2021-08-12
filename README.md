@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile2-tochange.jpg)
+![alt text](https://github.com/GeokChin/GeokChin/blob/fd1e40889ebeadef3794700d5e640963b67864d5/Passport_Size_GC.PNG)
 
 <!-- Add your details -->
 
